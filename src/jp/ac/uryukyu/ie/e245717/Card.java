@@ -6,7 +6,7 @@ public class Card {
     private String rank;
     private int value;
 
-    public Card(String rank, int vallue){
+    public Card(String rank, int value){
         this.rank = rank;
         this.value = value;
     }
