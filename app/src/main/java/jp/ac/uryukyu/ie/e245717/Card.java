@@ -1,8 +1,5 @@
 package jp.ac.uryukyu.ie.e245717;
 
-
-
-
 public class Card {
     private String rank;
     private int value;

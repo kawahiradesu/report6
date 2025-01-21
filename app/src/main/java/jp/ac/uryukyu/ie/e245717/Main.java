@@ -1,4 +1,6 @@
 package jp.ac.uryukyu.ie.e245717;
+
+
 import java.util.Scanner;
 
 public class Main {

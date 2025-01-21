@@ -1,6 +1,5 @@
 package jp.ac.uryukyu.ie.e245717;
 
-
 import java.util.ArrayList;
 
 public class Dealer {
