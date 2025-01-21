@@ -6,6 +6,7 @@ import java.util.Collections;
 public class Deck {
     private ArrayList<Card> cards = new ArrayList<>();
 
+    //A~12のそれぞれの数字のポイントを与える
     public Deck() {
         String[] rank = {"A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"};
         int[] value = {11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10};

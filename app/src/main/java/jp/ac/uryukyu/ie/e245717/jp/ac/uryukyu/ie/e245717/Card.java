@@ -2,6 +2,7 @@ package jp.ac.uryukyu.ie.e245717;
 
 
 
+
 public class Card {
     private String rank;
     private int value;
@@ -23,4 +24,10 @@ public class Card {
     public void chosevalue(int value){
         this.value = value;
     }
+
+    @Override
+    public String toString() {
+        return rank;
+    }
+    
 }
